@@ -2,6 +2,7 @@ import { useState, FormEvent } from 'react'
 import './App.css'
 import logoimg from "./assets/logo.png"
 
+
 interface InfoProps{
     title: string;
     gasolina: string | number;
